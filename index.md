@@ -2,122 +2,41 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# About
+Hi! I am Jessica Baron, a Ph.D. candidate in Computer Science, [Visual Computing at Clemson University](https://computing.clemson.edu/vcl/) advised by [Dr. Eric Patterson](https://people.cs.clemson.edu/~ekp/).
+My research focus is on material modeling for rendering feathers in computer graphics.
+I am passionate about the paths that the field of graphics opens up for interdisciplinary and international efforts for understanding more of the physical world.
 
-There should be whitespace between paragraphs.
+I am a 2020-2021 Fulbrighter at Prof. Wenzel Jakob's [Realistic Graphics Lab (RGL)](http://rgl.epfl.ch) at EPFL in Lausanne, Switzerland.
+I spent time abroad, too, in Cologne, Germany at TH Köln and in Wellington, New Zealand at Weta Digital; at both places I developed tools for procedurally generating feather geometry.
+I additionally interned with the RenderMan team at Pixar Animation Studios (implementing material models) and the Unreal Engine team at Epic Games (implementing rendering data structures).
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Research
+Overview of my research experience and projects.
 
-# Header 1
+## Publications
+Publications from research work and other projects.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Artwork
+A mix of 2D and 3D personal works.
 
-## Header 2
+## Professional Involvement
+ACM-SIGGRAPH
+- SIGGRAPH 2021 General Submissions Reviewer
+- SIGGRAPH 2020 General Submissions Reviewer
+- SIGGRAPH 2019 Posters Reviewer
+- SIGGRAPH 2018 Educator's Forum Speaker
+- SIGGRAPH 2017 Student Volunteer
+- SIGGRAPH 2016 Student Volunteer
+- 2016: UNC-Wilmington SIGGRAPH Chapter President
+- 2015-present: SIGGRAPH Student Member
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## *Inspiring Quote*
+> More than iron, more than lead, more than gold I need electricity.
+> I need it more than I need lamb or pork or lettuce or cucumber.
+> I need it for my dreams. 
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Contact
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
