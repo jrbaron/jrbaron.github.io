@@ -33,10 +33,7 @@ header, footer, section { display: block; position: relative; }
 /* STYLES */
 div.shell { display: block; width: 670px; margin: 0 auto; }
 
-a#forkme_banner { position: absolute; top: 0; left: 0; width: 138px; height: 138px; display: block; background: transparent url(../images/fork-sprite.png) 0 0 no-repeat; text-indent: -9000px; z-index: 3; }
-
-a#forkme_banner:hover { background-position: 0 -138px; }
-
+/* a#forkme_banner { position: absolute; top: 0; left: 0; width: 138px; height: 138px; display: block; background: transparent url(../images/fork-sprite.png) 0 0 no-repeat; text-indent: -9000px; z-index: 3; } a#forkme_banner:hover { background-position: 0 -138px; } */
 /* header */
 header { position: relative; z-index: 2; margin: 0 auto; max-width: 600px; top: 38px; }
 
