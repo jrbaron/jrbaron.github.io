@@ -20,10 +20,10 @@ Here I am with my world-traveling companion, Fresnel the Great Pyrenees, in Bern
 Overview of my research experience and projects.
 
 Feather Research
-- Fulbright 2020-2021, 
+- Fulbright 2020-2021, Material Capture at EPFL RGL
 - NSF-Small Grant, "Developing and Validating a Physically Accurate Light-Scattering Model for the Rendering of Bird and Other Dinosaur Feathers"
 - Image analysis and feather statistics ("Computer-Aided Visual Analysis of Feathers")
-- Master's Thesis, "Procedurally Generating Biologically Driven Bird and Non-Avian Dinosaur Feathers" on image analysis and feather geometry
+- Procedural geometry ("Procedurally Generating Biologically Driven Bird and Non-Avian Dinosaur Feathers", Weta Digital internship)
 
 Countenance Lab
 - Countenance Tool
