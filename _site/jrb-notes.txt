@@ -1,0 +1,4 @@
+Locally launch webpage:
+    Run this command IN THE ROOT DIR (containing _config.yml)
+    bundle exec jekyll serve
+Launch in http://localhost:4000
